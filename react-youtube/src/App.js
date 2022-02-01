@@ -4,8 +4,8 @@ import TodoList from './Todo/TodoList'
 function App() {
   const todos = [
     {id: 1, completed: false, title: 'Buy bread'},
-    {id: 1, completed: false, title: 'Buy oil'},
-    {id: 1, completed: false, title: 'Buy milk'},
+    {id: 2, completed: false, title: 'Buy oil'},
+    {id: 3, completed: false, title: 'Buy milk'},
   ]
 
   return (
